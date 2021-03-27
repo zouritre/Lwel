@@ -1,0 +1,294 @@
+2020-08-20 09:08:14 : Connecting
+2020-08-26 01:20:16 : Moving to lane
+2020-08-26 01:20:47 : Following minions
+2020-08-26 01:20:47 : Attacking
+2020-08-26 01:20:48 : Going safe
+2020-08-26 01:20:51 : Following minions
+2020-08-26 01:20:52 : Following minions
+2020-08-26 01:20:52 : Following minions
+2020-08-26 01:20:53 : Following minions
+2020-08-26 01:20:54 : Following minions
+2020-08-26 01:20:55 : Following minions
+2020-08-26 01:20:56 : Following minions
+2020-08-26 01:20:56 : Following minions
+2020-08-26 01:20:57 : Following minions
+2020-08-26 01:20:57 : Attacking
+2020-08-26 01:21:03 : Going safe
+2020-08-26 01:21:05 : Following minions
+2020-08-26 01:21:06 : Following minions
+2020-08-26 01:21:07 : Following minions
+2020-08-26 01:21:08 : Following minions
+2020-08-26 01:21:08 : Following minions
+2020-08-26 01:21:08 : Following minions
+2020-08-26 01:21:09 : Following minions
+2020-08-26 01:21:09 : Following minions
+2020-08-26 01:21:10 : Following minions
+2020-08-26 01:21:10 : Following minions
+2020-08-26 01:21:11 : Following minions
+2020-08-26 01:21:11 : Following minions
+2020-08-26 01:21:11 : Following minions
+2020-08-26 01:21:12 : Attacking
+2020-08-26 01:21:13 : Attacking
+2020-08-26 01:21:23 : Tower detected
+2020-08-26 01:21:24 : Going safe
+2020-08-26 01:21:25 : Attacking
+2020-08-26 01:21:31 : Tower detected
+2020-08-26 01:21:31 : Going safe
+2020-08-26 01:21:34 : Following minions
+2020-08-26 01:21:35 : Following minions
+2020-08-26 01:21:36 : Following minions
+2020-08-26 01:21:36 : Following minions
+2020-08-26 01:21:37 : Following minions
+2020-08-26 01:21:38 : Following minions
+2020-08-26 01:21:38 : Following minions
+2020-08-26 01:21:39 : Following minions
+2020-08-26 01:21:39 : Following minions
+2020-08-26 01:21:40 : Following minions
+2020-08-26 01:21:40 : Following minions
+2020-08-26 01:21:41 : Tower detected
+2020-08-26 01:21:41 : Tower detected
+2020-08-26 01:21:42 : Tower detected
+2020-08-26 01:21:42 : Tower detected
+2020-08-26 01:21:43 : Tower detected
+2020-08-26 01:21:43 : Tower detected
+2020-08-26 01:21:44 : Tower detected
+2020-08-26 01:21:44 : Tower detected
+2020-08-26 01:21:44 : Tower detected
+2020-08-26 01:21:45 : Tower detected
+2020-08-26 01:21:45 : Tower detected
+2020-08-26 01:21:45 : Tower detected
+2020-08-26 01:21:45 : Tower detected
+2020-08-26 01:21:46 : Tower detected
+2020-08-26 01:21:46 : Tower detected
+2020-08-26 01:21:46 : Fleeing
+2020-08-26 01:21:47 : Attacking
+2020-08-26 01:21:50 : Following minions
+2020-08-26 01:21:51 : Following minions
+2020-08-26 01:21:51 : Attacking
+2020-08-26 01:21:52 : Tower detected
+2020-08-26 01:21:53 : Tower detected
+2020-08-26 01:21:53 : Tower detected
+2020-08-26 01:21:53 : Tower detected
+2020-08-26 01:21:54 : Tower detected
+2020-08-26 01:21:54 : Tower detected
+2020-08-26 01:21:54 : Tower detected
+2020-08-26 01:21:55 : Tower detected
+2020-08-26 01:21:55 : Tower detected
+2020-08-26 01:21:55 : Fleeing
+2020-08-26 01:21:56 : Attacking
+2020-08-26 01:22:01 : Tower detected
+2020-08-26 01:22:02 : Tower detected
+2020-08-26 01:22:02 : Tower detected
+2020-08-26 01:22:02 : Tower detected
+2020-08-26 01:22:02 : Fleeing
+2020-08-26 01:22:04 : Attacking
+2020-08-26 01:22:11 : Following minions
+2020-08-26 01:22:12 : Following minions
+2020-08-26 01:22:13 : Attacking
+2020-08-26 01:22:16 : Tower detected
+2020-08-26 01:22:16 : Going safe
+2020-08-26 01:22:18 : Fleeing
+2020-08-26 01:22:23 : Looking for safe spot
+2020-08-26 01:22:24 : Buying
+2020-08-26 01:22:29 : Moving to lane
+2020-08-26 01:22:40 : Following minions
+2020-08-26 01:22:40 : Following minions
+2020-08-26 01:22:41 : Following minions
+2020-08-26 01:22:41 : Following minions
+2020-08-26 01:22:42 : Following minions
+2020-08-26 01:22:42 : Following minions
+2020-08-26 01:22:43 : Following minions
+2020-08-26 01:22:44 : Following minions
+2020-08-26 01:22:44 : Following minions
+2020-08-26 01:22:45 : Following minions
+2020-08-26 01:22:46 : Following minions
+2020-08-26 01:22:46 : Following minions
+2020-08-26 01:22:47 : Following minions
+2020-08-26 01:22:47 : Following minions
+2020-08-26 01:22:48 : Following minions
+2020-08-26 01:22:49 : Following minions
+2020-08-26 01:22:49 : Following minions
+2020-08-26 01:22:50 : Following minions
+2020-08-26 01:22:50 : Following minions
+2020-08-26 01:22:51 : Following minions
+2020-08-26 01:22:51 : Following minions
+2020-08-26 01:22:51 : Following minions
+2020-08-26 01:22:52 : Following minions
+2020-08-26 01:22:52 : Following minions
+2020-08-26 01:22:53 : Following minions
+2020-08-26 01:22:53 : Following minions
+2020-08-26 01:22:54 : Following minions
+2020-08-26 01:22:54 : Following minions
+2020-08-26 01:22:55 : Following minions
+2020-08-26 01:22:56 : Following minions
+2020-08-26 01:22:56 : Attacking
+2020-08-26 01:22:58 : Following minions
+2020-08-26 01:22:58 : Attacking
+2020-08-26 01:23:00 : Following minions
+2020-08-26 01:23:01 : Attacking
+2020-08-26 01:23:05 : Attacking
+2020-08-26 01:23:08 : Attacking
+2020-08-26 01:23:15 : Going safe
+2020-08-26 01:23:17 : Following minions
+2020-08-26 01:23:17 : Going safe
+2020-08-26 01:23:19 : Going safe
+2020-08-26 01:23:21 : Following minions
+2020-08-26 01:23:22 : Following minions
+2020-08-26 01:23:23 : Following minions
+2020-08-26 01:23:24 : Following minions
+2020-08-26 01:23:25 : Following minions
+2020-08-26 01:23:26 : Following minions
+2020-08-26 01:23:26 : Following minions
+2020-08-26 01:23:27 : Following minions
+2020-08-26 01:23:28 : Following minions
+2020-08-26 01:23:28 : Following minions
+2020-08-26 01:23:29 : Following minions
+2020-08-26 01:23:29 : Following minions
+2020-08-26 01:23:30 : Following minions
+2020-08-26 01:23:30 : Following minions
+2020-08-26 01:23:31 : Following minions
+2020-08-26 01:23:31 : Following minions
+2020-08-26 01:23:31 : Following minions
+2020-08-26 01:23:32 : Following minions
+2020-08-26 01:23:32 : Following minions
+2020-08-26 01:23:33 : Following minions
+2020-08-26 01:23:33 : Following minions
+2020-08-26 01:23:34 : Following minions
+2020-08-26 01:23:34 : Following minions
+2020-08-26 01:23:35 : Following minions
+2020-08-26 01:23:35 : Following minions
+2020-08-26 01:23:36 : Following minions
+2020-08-26 01:23:36 : Following minions
+2020-08-26 01:23:37 : Following minions
+2020-08-26 01:23:37 : Following minions
+2020-08-26 01:23:37 : Following minions
+2020-08-26 01:23:38 : Following minions
+2020-08-26 01:23:38 : Following minions
+2020-08-26 01:23:39 : Following minions
+2020-08-26 01:23:39 : Following minions
+2020-08-26 01:23:40 : Following minions
+2020-08-26 01:23:40 : Following minions
+2020-08-26 01:23:41 : Following minions
+2020-08-26 01:23:42 : Following minions
+2020-08-26 01:23:42 : Following minions
+2020-08-26 01:23:43 : Following minions
+2020-08-26 01:23:44 : Following minions
+2020-08-26 01:23:44 : Following minions
+2020-08-26 01:23:45 : Following minions
+2020-08-26 01:23:46 : Following minions
+2020-08-26 01:23:46 : Following minions
+2020-08-26 01:23:47 : Following minions
+2020-08-26 01:23:47 : Following minions
+2020-08-26 01:23:48 : Following minions
+2020-08-26 01:23:48 : Following minions
+2020-08-26 01:23:49 : Following minions
+2020-08-26 01:23:49 : Following minions
+2020-08-26 01:23:49 : Following minions
+2020-08-26 01:23:50 : Following minions
+2020-08-26 01:23:51 : Following minions
+2020-08-26 01:23:52 : Following minions
+2020-08-26 01:23:52 : Following minions
+2020-08-26 01:23:53 : Following minions
+2020-08-26 01:23:54 : Following minions
+2020-08-26 01:23:54 : Following minions
+2020-08-26 01:23:55 : Following minions
+2020-08-26 01:23:55 : Following minions
+2020-08-26 01:23:56 : Following minions
+2020-08-26 01:23:56 : Following minions
+2020-08-26 01:23:57 : Following minions
+2020-08-26 01:23:57 : Attacking
+2020-08-26 01:24:01 : Following minions
+2020-08-26 01:24:02 : Following minions
+2020-08-26 01:24:03 : Following minions
+2020-08-26 01:24:03 : Following minions
+2020-08-26 01:24:03 : Going safe
+2020-08-26 01:24:06 : Following minions
+2020-08-26 01:24:07 : Following minions
+2020-08-26 01:24:07 : Attacking
+2020-08-26 01:24:13 : Following minions
+2020-08-26 01:24:14 : Following minions
+2020-08-26 01:24:15 : Following minions
+2020-08-26 01:24:15 : Following minions
+2020-08-26 01:24:16 : Following minions
+2020-08-26 01:24:16 : Following minions
+2020-08-26 01:24:17 : Following minions
+2020-08-26 01:24:17 : Following minions
+2020-08-26 01:24:17 : Following minions
+2020-08-26 01:24:18 : Following minions
+2020-08-26 01:24:18 : Following minions
+2020-08-26 01:24:19 : Following minions
+2020-08-26 01:24:20 : Following minions
+2020-08-26 01:24:21 : Following minions
+2020-08-26 01:24:21 : Following minions
+2020-08-26 01:24:22 : Following minions
+2020-08-26 01:24:22 : Tower detected
+2020-08-26 01:24:23 : Tower detected
+2020-08-26 01:24:24 : Following minions
+2020-08-26 01:24:24 : Tower detected
+2020-08-26 01:24:25 : Tower detected
+2020-08-26 01:24:25 : Tower detected
+2020-08-26 01:24:26 : Tower detected
+2020-08-26 01:24:26 : Tower detected
+2020-08-26 01:24:27 : Tower detected
+2020-08-26 01:24:27 : Tower detected
+2020-08-26 01:24:27 : Tower detected
+2020-08-26 01:24:27 : Tower detected
+2020-08-26 01:24:28 : Tower detected
+2020-08-26 01:24:28 : Tower detected
+2020-08-26 01:24:28 : Tower detected
+2020-08-26 01:24:29 : Tower detected
+2020-08-26 01:24:29 : Tower detected
+2020-08-26 01:24:29 : Tower detected
+2020-08-26 01:24:30 : Tower detected
+2020-08-26 01:24:30 : Tower detected
+2020-08-26 01:24:30 : Going safe
+2020-08-26 01:24:33 : Following minions
+2020-08-26 01:24:33 : Following minions
+2020-08-26 01:24:34 : Following minions
+2020-08-26 01:24:35 : Following minions
+2020-08-26 01:24:35 : Following minions
+2020-08-26 01:24:36 : Following minions
+2020-08-26 01:24:36 : Following minions
+2020-08-26 01:24:37 : Following minions
+2020-08-26 01:24:37 : Following minions
+2020-08-26 01:24:38 : Following minions
+2020-08-26 01:24:38 : Following minions
+2020-08-26 01:24:39 : Following minions
+2020-08-26 01:24:39 : Following minions
+2020-08-26 01:24:40 : Following minions
+2020-08-26 01:24:41 : Following minions
+2020-08-26 01:24:41 : Following minions
+2020-08-26 01:24:42 : Following minions
+2020-08-26 01:24:42 : Tower detected
+2020-08-26 01:24:43 : Tower detected
+2020-08-26 01:24:43 : Tower detected
+2020-08-26 01:24:44 : Tower detected
+2020-08-26 01:24:44 : Tower detected
+2020-08-26 01:24:44 : Tower detected
+2020-08-26 01:24:44 : Tower detected
+2020-08-26 01:24:45 : Tower detected
+2020-08-26 01:24:45 : Tower detected
+2020-08-26 01:24:45 : Attacking
+2020-08-26 01:24:46 : Tower detected
+2020-08-26 01:24:46 : Tower detected
+2020-08-26 01:24:46 : Tower detected
+2020-08-26 01:24:47 : Tower detected
+2020-08-26 01:24:47 : Tower detected
+2020-08-26 01:24:47 : Tower detected
+2020-08-26 01:24:47 : Fleeing
+2020-08-26 01:24:49 : Attacking
+2020-08-26 01:24:49 : Fleeing
+2020-08-26 01:24:54 : Looking for safe spot
+2020-08-26 01:24:55 : Return to base
+2020-08-26 01:24:56 : Return to base
+2020-08-26 01:24:57 : Return to base
+2020-08-26 01:24:58 : Return to base
+2020-08-26 01:24:59 : Return to base
+2020-08-26 01:25:00 : Return to base
+2020-08-26 01:25:01 : Return to base
+2020-08-26 01:25:02 : Return to base
+2020-08-26 01:25:03 : Return to base
+2020-08-26 01:25:05 : Buying
+2020-08-26 01:25:10 : Moving to lane
+2020-08-26 01:25:20 : Going safe
+2020-08-26 01:56:40 : Moving to lane

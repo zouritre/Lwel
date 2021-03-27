@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\AutoIt3\SciTE\au3Stripper\AU3Stripper.exe" "C:\Users\botLoL\Desktop\Lwel\inGameLogic.au3"

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<object type="TAForm" name="userGUI">
+	<properties>
+		<property name="Left" vt="Int16">1545</property>
+		<property name="Top" vt="Int16">567</property>
+		<property name="Width" vt="Int16">366</property>
+		<property name="Height" vt="Int16">443</property>
+		<property name="Hint" vt="String">C:\Riot Games\League of Legends\LeagueClient.exe</property>
+		<property name="Caption" vt="String">Lwel</property>
+		<property name="Color" vt="Ident">clSilver</property>
+		<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+		<property name="Font.Color" vt="Ident">clWindowText</property>
+		<property name="Font.Height" vt="Int8">-11</property>
+		<property name="Font.Name" vt="String">MV Boli</property>
+		<property name="Font.Style" vt="Set">fsBold</property>
+		<property name="OldCreateOrder" vt="False">False</property>
+		<property name="Position" vt="Ident">poDesktopCenter</property>
+		<property name="Visible" vt="True">True</property>
+		<property name="Style" vt="Int32">-1798701056</property>
+		<property name="ExStyle" vt="Int16">256</property>
+		<property name="Version" vt="String">1.04</property>
+		<property name="FormOptOnEvent" vt="False">False</property>
+		<property name="FormOptExpVars" vt="False">False</property>
+		<property name="FormOptPopulate" vt="False">False</property>
+		<property name="FormOptVarsForSet" vt="False">False</property>
+		<property name="FormOptIndentChar" vt="Int8">0</property>
+		<property name="FormOptIndentCount" vt="Int8">1</property>
+		<property name="FormOptIndentInit" vt="Int8">0</property>
+		<property name="FormOptVarScope" vt="Int8">0</property>
+		<property name="Resizing" vt="Set"/>
+		<property name="PixelsPerInch" vt="Int8">96</property>
+		<property name="TextHeight" vt="Int8">16</property>
+	</properties>
+	<components>
+		<object type="TAButton" name="Start">
+			<properties>
+				<property name="Left" vt="Int16">264</property>
+				<property name="Top" vt="Int16">208</property>
+				<property name="Width" vt="Int8">75</property>
+				<property name="Height" vt="Int8">25</property>
+				<property name="Caption" vt="String">Start</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MV Boli</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">0</property>
+				<property name="Color" vt="Ident">clNavy</property>
+				<property name="CtrlStyle" vt="Int32">1342373888</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TACombo" name="gameMode">
+			<properties>
+				<property name="Left" vt="Int8">104</property>
+				<property name="Top" vt="Int8">48</property>
+				<property name="Width" vt="Int16">241</property>
+				<property name="Height" vt="Int8">21</property>
+				<property name="Color" vt="Ident">clMenuHighlight</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-12</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ItemHeight" vt="Int8">13</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">1</property>
+				<property name="Text" vt="String">  Intro</property>
+				<property name="Items.Strings" vt="List">
+					<list>
+						<li vt="String">Beginner</li>
+						<li vt="String">Intermediate</li>
+					</list>
+				</property>
+				<property name="CtrlStyle" vt="Int32">1342374466</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TACombo" name="champion">
+			<properties>
+				<property name="Left" vt="Int8">104</property>
+				<property name="Top" vt="Int8">88</property>
+				<property name="Width" vt="Int16">241</property>
+				<property name="Height" vt="Int8">21</property>
+				<property name="Color" vt="Ident">clMenuHighlight</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ItemHeight" vt="Int8">13</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">2</property>
+				<property name="Text" vt="String">  Ashe</property>
+				<property name="Items.Strings" vt="List">
+					<list>
+						<li vt="String">Jinx</li>
+					</list>
+				</property>
+				<property name="CtrlStyle" vt="Int32">1342374466</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="GameModeLab">
+			<properties>
+				<property name="Left" vt="Int8">16</property>
+				<property name="Top" vt="Int8">48</property>
+				<property name="Width" vt="Int8">71</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="String">Game mode</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clRed</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MV Boli</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">3</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="pathLab">
+			<properties>
+				<property name="Left" vt="Int8">24</property>
+				<property name="Top" vt="Int8">8</property>
+				<property name="Width" vt="Int8">32</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="String">Path</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clRed</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MV Boli</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">4</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="championLab">
+			<properties>
+				<property name="Left" vt="Int8">24</property>
+				<property name="Top" vt="Int8">88</property>
+				<property name="Width" vt="Int8">60</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="String">Champion</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clRed</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MV Boli</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">5</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAInput" name="idText">
+			<properties>
+				<property name="Left" vt="Int8">104</property>
+				<property name="Top" vt="Int16">128</property>
+				<property name="Width" vt="Int16">241</property>
+				<property name="Height" vt="Int8">24</property>
+				<property name="Color" vt="Ident">clFuchsia</property>
+				<property name="TabOrder" vt="Int8">6</property>
+				<property name="Text" vt="String">zouritrecarry</property>
+				<property name="CtrlStyle" vt="Int32">1342374016</property>
+				<property name="CtrlExStyle" vt="Int16">512</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="ID">
+			<properties>
+				<property name="Left" vt="Int8">40</property>
+				<property name="Top" vt="Int8">118</property>
+				<property name="Width" vt="Int8">17</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="String">ID</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clBlue</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MV Boli</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">7</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAInput" name="passwordText">
+			<properties>
+				<property name="Left" vt="Int8">104</property>
+				<property name="Top" vt="Int16">168</property>
+				<property name="Width" vt="Int16">241</property>
+				<property name="Height" vt="Int8">24</property>
+				<property name="Color" vt="Ident">clFuchsia</property>
+				<property name="TabOrder" vt="Int8">8</property>
+				<property name="Text" vt="String">Tibeb043163</property>
+				<property name="CtrlStyle" vt="Int32">1342374016</property>
+				<property name="CtrlExStyle" vt="Int16">512</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Password">
+			<properties>
+				<property name="Left" vt="Int8">24</property>
+				<property name="Top" vt="Int16">168</property>
+				<property name="Width" vt="Int8">59</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="String">Password</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clBlue</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MV Boli</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">9</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAEdit" name="Logs">
+			<properties>
+				<property name="Left" vt="Int8">8</property>
+				<property name="Top" vt="Int16">240</property>
+				<property name="Width" vt="Int16">337</property>
+				<property name="Height" vt="Int16">161</property>
+				<property name="Color" vt="Ident">clGray</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MV Boli</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="Lines.Strings" vt="List">
+					<list>
+						<li vt="String">Logs</li>
+					</list>
+				</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">10</property>
+				<property name="CtrlStyle" vt="Int32">1345523908</property>
+				<property name="CtrlExStyle" vt="Int16">512</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAInput" name="path">
+			<properties>
+				<property name="Left" vt="Int8">64</property>
+				<property name="Top" vt="Int8">8</property>
+				<property name="Width" vt="Int16">281</property>
+				<property name="Height" vt="Int8">24</property>
+				<property name="Color" vt="Ident">clMenuHighlight</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MV Boli</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">11</property>
+				<property name="Text" vt="String">path</property>
+				<property name="CtrlStyle" vt="Int32">1342374016</property>
+				<property name="CtrlExStyle" vt="Int16">512</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+	</components>
+</object>
