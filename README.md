@@ -1,5 +1,8 @@
 # Lwel-League_pixel_bot
 
+
+Démo: https://youtu.be/S5Al51RKVSY
+
 prérequis OCR:
 
 1- installer environnement python: 
